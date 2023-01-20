@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kevinrob88
-- 👀 I’m interested in HTML,  CSS,  JavaScript, Python, SQL.
+- 👀 I’m interested in HTML,  CSS,  JavaScript, Python, MySQL, Java, PHP.
 - 🌱 I’m currently learning Full Stack Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
